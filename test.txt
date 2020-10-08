@@ -1,1 +1,3 @@
-This is my first test for git
+This is my first test for git 
+Try the eggs benedict Mr.Reese
+I have them many times
